@@ -1,0 +1,8 @@
+[submodule "mysite/publish"]
+	path = mysite/publish
+	url = https://github.com/TeHanHunter/tehan.github.io.git
+	branch = main
+[submodule "mysite/public/public"]
+	path = mysite/public/public
+	url = https://github.com/TeHanHunter/tehan.github.io.git
+	branch = main

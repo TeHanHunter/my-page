@@ -1,0 +1,4 @@
+baseURL = 'https://tehan.github.io/'
+languageCode = 'en-us'
+title = 'Te Han Personal Page'
+theme='hugo-porto'
