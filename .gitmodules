@@ -10,3 +10,7 @@
 	path = public
 	url = https://github.com/TeHanHunter/tehan.github.io.git
 	branch = main
+[submodule "mysite/publication"]
+	path = mysite/publication
+	url = https://github.com/TeHanHunter/tehan.github.io.git
+	branch = main
